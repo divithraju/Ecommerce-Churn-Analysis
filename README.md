@@ -1,5 +1,15 @@
 # 🛒 E-Commerce Customer Churn Analysis & Revenue Impact Study
 
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas)
+![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+</div>
+
+
 Business Problem → Data Analysis → Actionable Insights → Revenue Impact
 
 # 📌 Business Problem
